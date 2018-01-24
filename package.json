@@ -1,0 +1,22 @@
+{
+  "name": "cifrado-cesar",
+  "version": "1.0.0",
+  "description": "```javascript     crear función caesarCyph() \thacer do  \tif (frase = 1)  \tllamar función cipher() \telse if (frase = 2) \tllamar función decipher() \twhile (frase prompt !== '' && frase prompt !== 1 o 2)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bimiriya/cifrado-cesar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bimiriya/cifrado-cesar/issues"
+  },
+  "homepage": "https://github.com/bimiriya/cifrado-cesar#readme",
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  }
+}
